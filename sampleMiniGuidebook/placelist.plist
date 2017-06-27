@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ayara</key>
+	<dict>
+		<key>description</key>
+		<string>Cebuの中心地</string>
+		<key>image</key>
+		<string>second.png</string>
+		<key>latitude</key>
+		<string>10.3747</string>
+		<key>longitude</key>
+		<string>123.905759</string>
+	</dict>
+	<key>実家</key>
+	<dict>
+		<key>description</key>
+		<string>実家（岩手県盛岡市）</string>
+		<key>image</key>
+		<string>reizouko.jpeg</string>
+		<key>latitude</key>
+		<string>39.702295</string>
+		<key>longitude</key>
+		<string>141.168113</string>
+	</dict>
+	<key>Water Front</key>
+	<dict>
+		<key>description</key>
+		<string>ドミトリーの近く</string>
+		<key>image</key>
+		<string>third.png</string>
+		<key>latitude</key>
+		<string>10.325353</string>
+		<key>longitude</key>
+		<string>123.905848</string>
+	</dict>
+</dict>
+</plist>
