@@ -56,7 +56,7 @@ class secondViewController: UIViewController {
         let lati:long
         
         
-        //縮尺を設定
+        //縮尺を設定()
         let span = MKCoordinateSpanMake(0.1,0.1)
         //MapViewに範囲オブジェクトを設定
         let region = MKCoordinateRegionMake(coodinate,span)
